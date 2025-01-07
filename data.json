@@ -1,0 +1,116 @@
+{
+    "questions":[
+        {
+            "id": 1,
+            "question": "Two weeks after a viral syndrome, a 9 year-old boy presents to your clinic with a complaint of several days of weakness of his mouth. In addition to the drooping of the left side of his mouth, you note that he is unable to completely shut his left eye. His smile is asymmetric, but his examination is otherwise normal. Which of the following is the most likeli diagnosis?",
+            "options": {
+                "A": "Guillain-Barré syndrome",
+                "B": "Botulism",
+                "C": "Cerebral vascular accident",
+                "D": "Brainstem tumor",
+                "E": "Bell palsy"
+            }
+        },
+        {
+            "id": 2,
+            "question": "An infant can regard his parent's face, follow to the midline, lift his head from the examining table, smile sponatneously, and respond to a bell. He does not yet regard his own hand, follow past the midline, nor lift his head to a 45° angle off the examinig table. Which the following is the most likely age of the infant?",
+            "options": {
+                "A": "1 month",
+                "B": "3 months",
+                "C": "6 months",
+                "D": "9 months",
+                "E": "12 months"
+            }
+        },
+        {
+            "id": 3,
+            "question": "A child is brought to your clinic for a routine examination. She can put on a T-shirt but requires a bit of help dressing otherwise. She can copy a circle well but has difficulty in copying a square. Her speech is understandable and she knows four colors. She balances proudly on each foot for 2 seconds but is unable to hold the stance for 5 seconds. Which of the following is the most likely age of this child?",
+            "options": {
+                "A": "1 year",
+                "B": "2 years",
+                "C": "3 years",
+                "D": "4 years",
+                "E": "5 years"
+            }
+        },
+        {
+            "id": 4,
+            "question": "A previously healthy 4-year-old child pictured below presents to the emergency room (ER) with a 2-day history of a brightly erythematous rash and temperature of 40°C (104°F). The exquisitely tender, generalized rash is worse in the flexural and perioral areas. The child is admitted and over the next day develops crusting and fissuring around the eyes, mouth, and nose. The desquamation of skin shown in the photograph occurs with gentle traction. Which of the following is the most likely diagnosis?",
+            "options": {
+                "A": "Epidermolysis bullosa",
+                "B": "Staphylococcal scalded skin syndrome",
+                "C": "Erythema multiforme",
+                "D": "Drug eruption",
+                "E": "Scarlet fever"
+            }
+        },
+        {
+            "id": 5,
+            "question": "A patient comes to your office for a hospital follow-up. You had sent him to the hospital 3 weeks earlier for persistent fevers but no other symptoms; he was diagnosed with endocarditis and is currently being treated appropriately. Advice to this family should now include which of the following?",
+            "options": {
+                "A": "Restrict the child from all strenuous activities.",
+                "B": "Give the child a no-salt-added diet.",
+                "C": "Provide the child with antibiotic prophylaxis for dental procedures.",
+                "D": "Test all family members in the home with repeated blood cultures.",
+                "E": "Avoid allowing the child to get upset or agitated."
+            }
+        },
+        {
+            "id": 6,
+            "question": "The adolescent shown presents with a 14-day history of multiple oval lesions over her back. The rash began with a single lesion over the lower abdomen (A); the other lesions developed over the next days (B). These lesions are slightly pruritic. Which of the following is the most likely diagnosis?",
+            "options": {
+                "A": "Contact dermatitis",
+                "B": "Pityriasis rosea",
+                "C": "Seborrheic dermatitis",
+                "D": "Lichen planus",
+                "E": "Psoriasis"
+            }
+        },
+        {
+            "id": 7,
+            "question": "A chubby 6-month-old baby boy is brought to the clinic by his father. His father is concerned that his penis is too small. The child is at the 95% for weight and the 50% for length; he has been developing normally and has had no medical problems. Which of the following is the most appropriate first step in management of this child?",
+            "options": {
+                "A": "Surgical consultation",
+                "B": "Evaluation of penile length after retracting the skin and fat lateral to the penile shaft",
+                "C": "Ultrasound for uterus and ovaries",
+                "D": "Weight loss",
+                "E": "Serum testosterone levels"
+            }
+        },
+        {
+            "id": 8,
+            "question": ". A previously healthy 5-year-old boy has a 1-day history of low-grade fever, colicky abdominal pain, and a rash. He is well-appearing and alert. His vital signs, other than a temperature of 38°C (100.5°F) are completely normal. A diffuse, erythematous, maculopapular, and petechial rash is present on his buttocks and lower extremities, as shown in the photograph. He has no localized abdominal tenderness or rebound; bowel sounds are active. Laboratory data demonstrate. Urinalysis: 30 red blood cells (RBCs) per high-powered field, 2+ protein, Stool: Guaiac positive. Platelet count: 135,000/μL. These findings are most consistent with which of the following?",
+            "options": {
+                "A": "Anaphylactoid purpura",
+                "B": "Meningococcemia",
+                "C": "Child abuse",
+                "D": "Leukemia",
+                "E": "Hemophilia B"
+            }
+        },
+        {
+            "id": 9,
+            "question": "A 4-month-old baby boy arrives to the ER cold and stiff. The parents report that he had been healthy and that they put him to bed as usual for the night at the regular time. When they next saw him, in the morning, he was dead. Physical examination is uninformative. A film from a routine skeletal survey is shown below. Which of the following is the most likely diagnosis?",
+            "options": {
+                "A": "Scurvy",
+                "B": "Congenital syphilis",
+                "C": "Sudden infant death syndrome (SIDS)",
+                "D": "Osteogenesis imperfecta",
+                "E": "Abuse"
+            }
+        },
+        {
+            "id": 10,
+            "question": "A 6-year-old boy is often teased at school because he has stooled in his underwear almost daily for the last 3 months. He was toilet trained at 2 years of age without difficulty, but over the last 2 years he had developed ongoing constipation. His family is frustrated because they cannot believe him when he says “I didn’t know I had to go.” He is otherwise normal; school is going well, and his home life is stable. His only finding on examination is significant for stool in the rectal vault. The plain radiograph of his abdomen is shown. Initial management of this problem should include which of the following?",
+            "options": {
+                "A": "Barium enema and rectal biopsy",
+                "B": "Family counseling",
+                "C": "Time-out when he stools in his underwear",
+                "D": "Clear fecal impaction and short term stool softener use",
+                "E": "Daile enemas for 4 weeks"
+            }
+        }
+
+
+    ]
+}
