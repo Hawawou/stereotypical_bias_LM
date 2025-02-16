@@ -1,8 +1,7 @@
 # Study of Stereotypical Biases in LLMs for Medical Assistance
 
 ## Authors
-**Pin-Xun HUANG,Hawawou O. TCHAPCHET ,N.Hedwig NAAVA, Reyanne ROMAIN**  
-**Date:** February 16, 2025  
+**Pin-Xun HUANG,Hawawou O. TCHAPCHET ,N.Hedwig NAAVA, Reyanne ROMAIN**   
 
 ---
 
