@@ -1,4 +1,4 @@
-# Study of Stereotypical Biases in Language Model Medical Assistance
+# Study of Stereotypical Biases in LLMs for Medical Assistance
 
 ## Authors
 **Pin-Xun HUANG,Hawawou O. TCHAPCHET ,N.Hedwig NAAVA, Reyanne ROMAIN**  
