@@ -1,7 +1,7 @@
 # Study of Stereotypical Biases in Language Model Medical Assistance
 
 ## Authors
-**Pin-XUN HUANG,Hawawou O. TCHAPCHET ,N.Hedwig NAAVA, Reyanne ROMAIN**  
+**Pin-Xun HUANG,Hawawou O. TCHAPCHET ,N.Hedwig NAAVA, Reyanne ROMAIN**  
 **Date:** February 16, 2025  
 
 ---
