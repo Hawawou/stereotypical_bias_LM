@@ -9,7 +9,7 @@
 LLMs (Large Language Models) are being used more in healthcare to provide quick information and help in decision-making. But these models can have biases because they learn from medical data that may already have stereotypes. Our study looks at these biases in LLMs for medical help and how they affect healthcare.
 
 ### **Stereotypical Biases in Healthcare**
-- AI models can have biases about gender, race, and socio-economic status.
+- AI models can have biases about gender and race.
 - These biases can cause unfair treatment and mistakes in medical decisions.
 
 ### **Related Work**
