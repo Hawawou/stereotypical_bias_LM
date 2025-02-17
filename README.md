@@ -27,7 +27,7 @@ LLMs are useful in healthcare because they give fast access to medical knowledge
 
 ## **How We Did the Study**
 ### **Testing Bias Using Prompts**
--we gathered data from medical textbooks, formulating questions and answers. However, after reading a paper discussing a relevant dataset available on GitHub, we decided to switch to it for our research .
+- We gathered data from medical textbooks, formulating questions and answers. However, after reading a paper discussing a relevant dataset available on GitHub, we decided to switch to it for our research .
 
 ### **Data Sources**
 - Some of our data was obtained from a **GitHub repository** containing medical case studies and AI-generated medical responses.
