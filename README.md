@@ -22,7 +22,6 @@ LLMs (Large Language Models) are being used more in healthcare to provide quick 
 LLMs are useful in healthcare because they give fast access to medical knowledge. But if they use biased information, they might make unfair decisions. Our study aims to:
 - Find and measure biases in medical language models.
 - Compare general and medical AI models to see which are more biased.
-- Suggest ways to reduce bias in AI medical assistance.
 
 ---
 
@@ -36,17 +35,13 @@ LLMs are useful in healthcare because they give fast access to medical knowledge
 
 ### **Models We Used**
 - **General Models:** Llama, Mistral
-- **Medical Models:** BioMistral, JSL-MedLlama ,OpenBio-LLM
+- **Medical Models:** BioMistral,OpenBio-LLM
 
 ---
 
 ## **Results and Findings**
 We checked model outputs using:
 - **Bias Detection:** Seeing if models gave stereotypical answers.
-- **Fairness Tests:** Checking if answers were fair for different groups.
-- **Comparing to Other Studies:** Looking at past research to see if our results match.
-
-
 ---
 
 ## **Thanks for Reading!**
