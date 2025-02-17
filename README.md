@@ -36,7 +36,7 @@ LLMs are useful in healthcare because they give fast access to medical knowledge
 
 ### **Models We Used**
 - **General Models:** Llama, Mistral
-- **Medical Models:** BioMistral, JSL-MedLlama
+- **Medical Models:** BioMistral, JSL-MedLlama ,OpenBio-LLM
 
 ---
 
