@@ -28,16 +28,15 @@ LLMs are useful in healthcare because they give fast access to medical knowledge
 
 ## **How We Did the Study**
 ### **Testing Bias Using Prompts**
-- We created various prompts manually to test for biases. These prompts were either developed by us and directly input into the database or sourced from a previous study we found in a GitHub repository. Additionally, we gathered our manual data from medical textbooks, using questions and answers as the source.
-- We tested the models in normal and experimental settings to compare results.
+-we gathered data from medical textbooks, formulating questions and answers. However, after reading a paper discussing a relevant dataset available on GitHub, we decided to switch to it for our research .
 
 ### **Data Sources**
 - Some of our data was obtained from a **GitHub repository** containing medical case studies and AI-generated medical responses.
-- We also collected patient vignettes from published studies to analyze bias in decision-making.
+- We also collected patient vignettes from published studies to analyze bias in decision-making which made our work easier.
 
 ### **Models We Used**
 - **General Models:** Llama, Mistral
-- **Medical Models:** BioMistral, DrBERT
+- **Medical Models:** BioMistral, JSL-MedLlama
 
 ---
 
